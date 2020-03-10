@@ -1,0 +1,24 @@
+{
+  "name": "test-for-codegen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/isomorphic-fetch": "0.0.35",
+    "@types/node": "^13.9.0",
+    "openapi-client": "^1.0.5",
+    "typescript": "^3.8.3"
+  },
+  "dependencies": {
+    "@proerd/swagger-ts-template": "^1.15.0",
+    "node-fetch": "^2.6.0",
+    "openapi-client-axios": "^3.3.2",
+    "rxjs": "^6.5.4"
+  }
+}
