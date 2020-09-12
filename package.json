@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@proerd/swagger-ts-template": "^1.15.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "openapi-client-axios": "^3.3.2",
     "rxjs": "^6.5.4"
   }
